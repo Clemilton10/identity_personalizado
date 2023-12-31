@@ -1,6 +1,8 @@
 # Identity Personalizado
 
-<style>@import url("./sty.css");</style>
+<style>
+@import url("./sty.css");
+</style>
 
 ### Criação
 
