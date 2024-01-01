@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "identity_personalizado", "identity_personalizado.csproj", "{EC1061BD-C0D7-4AE8-A3B3-5FE3D89A0154}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "extras", "extras", "{2885AB12-41E5-475D-A554-5E5F8FE42D86}"
+	ProjectSection(SolutionItems) = preProject
+		bt_left.svg = bt_left.svg
+		bt_right.svg = bt_right.svg
+		README.md = README.md
+		README2.md = README2.md
+		vs.svg = vs.svg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1061BD-C0D7-4AE8-A3B3-5FE3D89A0154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1061BD-C0D7-4AE8-A3B3-5FE3D89A0154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1061BD-C0D7-4AE8-A3B3-5FE3D89A0154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1061BD-C0D7-4AE8-A3B3-5FE3D89A0154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {542E2C65-F163-4D00-A982-2485AF72CD91}
+	EndGlobalSection
+EndGlobal
